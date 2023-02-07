@@ -23,7 +23,7 @@
         fetch(e.href, n)
     }
 })();
-const l = "/assets/javascript-8dac5379.svg",
+const l = "javascript-8dac5379.svg",
     c = document.querySelector("form"),
     a = document.querySelector("#chat_container");
 let u;
